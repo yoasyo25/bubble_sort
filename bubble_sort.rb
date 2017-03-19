@@ -50,7 +50,7 @@ end
 sorter = BubbleSorter.new
 print sorter.sort(["d", "b", "a", "c"])
 print sorter.sort([5, 4, 0, 1, 2, 3])
-#
+
 ----------------------------------------------------------------------------
 
 class BubbleSorting
